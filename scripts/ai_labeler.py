@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 # --- CONFIGURATION ---
 # Replace with your actual API Key
-API_KEY = "AIzaSyDv6HbeMs9xvRb3VOD2PmJ3u1Et59GlK-k"
+API_KEY = ""
 
 # Input/Output files
 INPUT_FILE = "gold_standard_dataset.csv"
