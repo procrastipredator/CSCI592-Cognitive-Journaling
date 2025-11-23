@@ -1,0 +1,59 @@
+timestamp,user_id,text,prediction,system,feedback
+2025-11-22T10:15:22,u_101,"I failed one quiz, so now my entire degree is ruined.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-22T10:18:45,u_101,"I'm just feeling really tired today.",NEUTRAL_DISTRESS,System B (SVM),helpful
+2025-11-22T10:45:11,u_102,"Everyone hates me.",MIND_READING,System A (Rules),helpful
+2025-11-22T11:02:33,u_103,"Мен ешқашан бақытты болмаймын.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-22T11:05:12,u_103,"Бәрі мені жек көреді.",MIND_READING,System B (SVM),helpful
+2025-11-22T12:20:05,u_104,"She didn't text back, she must be angry at me.",MIND_READING,System A (Rules),helpful
+2025-11-22T12:22:19,u_104,"I am literally cooked.",NEUTRAL_DISTRESS,System A (Rules),not_helpful
+2025-11-22T12:25:40,u_105,"I am literally cooked.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-22T13:10:55,u_106,"Препод так посмотрел, он точно думает что я тупой.",MIND_READING,System A (Rules),helpful
+2025-11-22T13:15:22,u_106,"Я провалил тест, жизнь кончена.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-22T14:40:10,u_107,"Salary raise or nothing!",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-22T14:42:05,u_107,"I think my friends are jealous of me.",MIND_READING,System B (SVM),helpful
+2025-11-22T15:05:30,u_108,"My kids are lazy.",MIND_READING,System A (Rules),not_helpful
+2025-11-22T15:08:11,u_108,"My kids represent total failure.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-22T16:12:44,u_109,"He 100% is gay.",MIND_READING,System B (SVM),helpful
+2025-11-22T16:15:22,u_109,"Мне кажется или они думают что я говно.",MIND_READING,System B (SVM),helpful
+2025-11-22T17:30:05,u_110,"Я абсолютное говно.",NEUTRAL_DISTRESS,System A (Rules),not_helpful
+2025-11-22T17:32:10,u_110,"Я никогда не стану счастливым.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-22T18:45:33,u_111,"She is always late.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-22T18:48:12,u_111,"I think my friend is not my friend because she is jealous.",MIND_READING,System B (SVM),helpful
+2025-11-22T19:20:55,u_112,"My mom doesnt love me.",MIND_READING,System A (Rules),helpful
+2025-11-22T19:25:10,u_112,"I need that job or nothing.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-22T20:10:22,u_101,"I feel the burden.",NEUTRAL_DISTRESS,System B (SVM),helpful
+2025-11-22T20:15:44,u_103,"Ол мені жек көреді деп ойлаймын.",MIND_READING,System B (SVM),helpful
+2025-11-22T21:05:30,u_105,"This project is a total disaster.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-22T21:10:15,u_107,"Everyone is against me.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-22T22:00:00,u_104,"Everything is perfect!",ALL_OR_NOTHING,System A (Rules),not_helpful
+2025-11-22T22:05:12,u_104,"Nobody understands me.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-23T09:10:15,u_102,"Always have fun!",ALL_OR_NOTHING,System A (Rules),not_helpful
+2025-11-23T09:15:22,u_102,"Why does everyone hate me though?",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-23T09:45:30,u_105,"My roommate is being quiet today.",MIND_READING,System B (SVM),not_helpful
+2025-11-23T09:50:11,u_105,"He is definitely mad at me.",MIND_READING,System B (SVM),helpful
+2025-11-23T10:12:05,u_103,"Бүгін күн суық екен.",NEUTRAL_DISTRESS,System B (SVM),helpful
+2025-11-23T10:15:40,u_103,"Менің жолым болмайды.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-23T11:20:33,u_108,"If I fail this exam I am dead.",NEUTRAL_DISTRESS,System A (Rules),not_helpful
+2025-11-23T11:25:15,u_108,"My life is over.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-23T12:05:44,u_111,"I never eat sushi.",ALL_OR_NOTHING,System A (Rules),not_helpful
+2025-11-23T12:10:22,u_111,"I never do anything right.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-23T13:30:10,u_109,"Все смотрят на мои прыщи.",MIND_READING,System B (SVM),helpful
+2025-11-23T13:35:55,u_109,"Я урод.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-23T14:15:20,u_106,"Totally awesome day!",ALL_OR_NOTHING,System A (Rules),not_helpful
+2025-11-23T14:20:45,u_106,"Actually I feel like a total failure.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-23T15:00:10,u_112,"She probably thinks I'm annoying.",MIND_READING,System B (SVM),helpful
+2025-11-23T15:05:30,u_112,"It's raining outside.",NEUTRAL_DISTRESS,System B (SVM),helpful
+2025-11-23T16:40:22,u_101,"I'm gonna lose my mind.",NEUTRAL_DISTRESS,System B (SVM),helpful
+2025-11-23T16:45:11,u_101,"Everything sucks.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-23T17:10:55,u_104,"People think I am smart.",MIND_READING,System A (Rules),not_helpful
+2025-11-23T17:15:33,u_104,"They think I am faking it.",MIND_READING,System A (Rules),helpful
+2025-11-23T18:20:10,u_110,"Жизнь — это боль.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-23T18:25:44,u_110,"Почему автобус опаздывает?",NEUTRAL_DISTRESS,System B (SVM),helpful
+2025-11-23T19:05:22,u_107,"Бәрі жақсы болады.",ALL_OR_NOTHING,System A (Rules),not_helpful
+2025-11-23T19:10:15,u_107,"Ешкім маған көмектеспейді.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-23T20:30:55,u_105,"My friends are busy.",NEUTRAL_DISTRESS,System B (SVM),helpful
+2025-11-23T20:35:10,u_105,"They are ignoring me on purpose.",MIND_READING,System B (SVM),helpful
+2025-11-23T21:15:40,u_102,"Whatever happens happens.",NEUTRAL_DISTRESS,System A (Rules),helpful
+2025-11-23T21:20:25,u_102,"Nothing ever works out for me.",ALL_OR_NOTHING,System A (Rules),helpful
+2025-11-23T22:40:11,u_109,"Я полный ноль.",ALL_OR_NOTHING,System B (SVM),helpful
+2025-11-23T22:45:33,u_109,"Кажется я заболел.",NEUTRAL_DISTRESS,System B (SVM),helpful
